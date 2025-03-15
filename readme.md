@@ -8,7 +8,7 @@ A powerful tool that generates complete websites based on text descriptions, con
 
 ## 📋 Table of Contents
 
-- [🌟 Text to Image Website Generator 🚀](#-text-to-image-website-generator-)
+- [🌟 Text to Image  Generator 🚀](#-text-to-image-website-generator-)
   - [📋 Table of Contents](#-table-of-contents)
   - [🔍 Overview](#-overview)
   - [✨ Features](#-features)
