@@ -1,10 +1,10 @@
-# 🌟 Text to Image Website Generator 🚀
+# 🌟 Text to Image  Generator 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/text-to-image-website-generator.svg)](https://github.com/yourusername/text-to-image-website-generator/stargazers)
 
-A powerful tool that generates complete websites based on text descriptions, converting your words into visual web experiences! ✨
+A powerful tool that generates complete websites based on text descriptions, converting your words into visual image! ✨
 
 ## 📋 Table of Contents
 
@@ -73,18 +73,17 @@ npm start
 
 ## 🎮 Usage
 
-1. 📝 Enter a detailed description of your desired website
-2. 🔍 Review the generated preview
+1. 📝 Enter a detailed description of your desired image
+2. 🔍 Review the generated image
 3. 🔧 Make any necessary adjustments
-4. 💾 Export your finished website
+4. 💾 Export your finished image
 
 ## 👀 Examples
 
 Check out these amazing websites created with our generator:
+elephant:
+![alt text](<Screenshot 2025-03-15 162846.png>)
 
-- 🍕 [Pizza Restaurant](https://example.com/demo1) - Generated from a description of a pizza place
-- 🏋️ [Fitness Studio](https://example.com/demo2) - Created for a gym website
-- 🛒 [E-commerce Shop](https://example.com/demo3) - A full online store from text description
 
 ## 🤝 Contributing
 
