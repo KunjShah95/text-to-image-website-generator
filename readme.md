@@ -54,7 +54,6 @@ text-to-image-website-generator/
 └── README.md                # Project documentation
 ```
 
-![alt text](<Screenshot 2025-03-15 162846.png>)
 ## 🚀 Installation
 
 ```bash
